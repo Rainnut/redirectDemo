@@ -13,3 +13,4 @@ http.createServer((req, res) => {
 
   res.end();
 }).listen(8848);
+// https://blog.lishunyang.com/2020/06/redirect.html
